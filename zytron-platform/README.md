@@ -63,7 +63,7 @@ To begin using Zytron Platform, ensure your environment meets the following:
 
 ---
 
-## *Example Usage**
+## **Example Usage**
 
 ### **Deploying Agents with Custom Tasks**
 ```python
