@@ -66,7 +66,7 @@ Before starting with Zytron Cloud, ensure the following requirements are met:
 
 ---
 
-## *Example Usage**
+## **Example Usage**
 
 ### **Deploying Multi-Agent Systems**
 ```python
