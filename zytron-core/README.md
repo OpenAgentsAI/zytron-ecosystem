@@ -63,7 +63,7 @@ To use Zytron Core, ensure your environment meets the following requirements:
 
 ---
 
-## *Example Usage**
+## **Example Usage**
 
 ### **Deploying Agents with Custom Tasks**
 ```python
