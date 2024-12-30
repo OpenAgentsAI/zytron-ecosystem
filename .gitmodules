@@ -1,0 +1,15 @@
+[submodule "openagentsai"]
+	path = openagentsai
+	url = ../openagentsai
+[submodule "openagentsai-core"]
+	path = openagentsai-core
+	url = ../openagentsai-core
+[submodule "openagentsai-js"]
+	path = openagentsai-js
+	url = ../openagentsai-js
+[submodule "openagentsai-cloud"]
+	path = openagentsai-cloud
+	url = ../openagentsai-cloud
+[submodule "openagentsai-platform"]
+	path = openagentsai-platform
+	url = ../openagentsai-platform

@@ -1,0 +1,27 @@
+{
+ "Premium": {
+    "title": "PREMIUM",
+    "description": "For small teams with big ambitions.",
+     "link": "platform/account",
+    "price": "99",
+    "buttonTitle": "Subscribe",
+    "features": [
+      "Access to the best Multi-Modal models",
+      "100% Uptime with 24/7 Support",
+      "5 TB cloud storage"
+    ]
+  },
+  "Enterprise": {
+    "title": "ENTERPRISE",
+    "link": "https://calendly.com/openagentsai-corp/30min",
+    "buttonTitle": "Contact us",
+    "description": "Enterprise-grade support and features.",
+    "features": [
+      "Access to the best Multi-Modal models",
+      "100% Uptime with 24/7 Support",
+      "5 TB cloud storage",
+      "Marketing campaigns"
+    ]
+  }
+}
+
